@@ -4,6 +4,13 @@
     box-sizing: border-box;
 }
 
-h1{
-    color:red;
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    background-size: repeat;
+    padding: 2%;
+}
+
+header > img{
+    width: 10%;
 }
