@@ -69,6 +69,7 @@ table{
     font-size: 1.5em;
     text-align: left;
     border-spacing: 0;
+    margin-bottom: 2%;
 }
 
 thead{
@@ -85,4 +86,43 @@ thead{
 
 .terza{
     background-color: #B1E5F2;
+}
+
+section > p{
+    font-size: 1.5em;
+}
+
+footer{
+    width: 80%;
+    margin: auto;
+}
+
+h2{
+ margin:2% 0;
+ font-size: 2em; 
+}
+
+.monitor{
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    margin-bottom: 1%;
+}
+
+.monitor > h4{
+    color: white;
+    font-size: 1.5em;
+}
+
+.graph{
+    width: 500px;
+    height: 400px;
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
+
+.graph > h4{
+    color:white;
+    font-size: 1.5em;
 }
