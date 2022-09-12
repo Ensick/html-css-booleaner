@@ -8,9 +8,58 @@ header{
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
     background-size: repeat;
-    padding: 2%;
+    height: 13vh;
 }
 
 header > img{
-    width: 10%;
+    margin: 2% 0 0 10%;
+    width: 15%;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+}
+
+.autore{
+    margin-bottom: 1%;
+}
+
+.autore > h1{
+    font-size: 5em;
+}
+
+.booleaner{
+    font-size: 2em;
+}
+
+p > span{
+    color:#4EA0FF
+}
+
+.data{
+    font-size: 1em;
+}
+
+.foto{
+    height:725px;
+}
+
+.foto > img{
+    height: 100%;
+}
+
+.tim > p{
+    margin-top: 1%;
+    font-size: 1.5em;
+}
+
+.testo > p {
+    margin: 1% 0;
+    font-size: 1.5em;
+}
+
+.testo > ul{
+    margin-left: 1%;
+    font-size: 1.5em;
 }
